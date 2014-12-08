@@ -1,0 +1,119 @@
+
+/******************************************************************************
+
+CSS file created for chat room html used in the Soccer Game webapp developed 
+by Team Coolio.
+
+All rights reserved 
+
+*******************************************************************************/
+
+.chatContainer {
+
+    display: inline-block;
+
+    background-color: #ecf0f1;
+
+    padding-left: 10px;
+
+    padding-right: 10px;
+
+    padding-bottom: 10px;
+
+    width: 300px;
+
+    height: 570px;
+
+    border-radius: 15px;
+
+    box-shadow: 2px 2px 4px #888888;
+    
+    position: absolute;
+    
+    top: 50px;
+
+    /* Just hard code for now */
+
+}
+
+.chatSymbol {
+
+    color: #e74c3c;
+
+    padding-top: 10px;
+
+    padding-bottom: 10px;
+
+    padding-left: 10px;
+
+}
+
+.chatHeader {
+
+    text-align: center;
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-size: 20px;
+
+}
+
+.chat {
+
+    height: 280px;
+
+    overflow-y: auto;
+
+    overflow-x: hidden;
+
+    background-color: #fff;
+
+}
+
+.presence {
+
+    height: 82px;
+
+}
+
+.message {
+
+    margin-top: 10px;
+
+    resize: none;
+
+    width: 100%;
+
+}
+
+.onlineHeader {
+
+    font-weight: bold;
+
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.chatButtons {
+
+    margin-top: 15px;
+
+}
+
+.send {
+
+    width: 49%;
+
+}
+
+.quit {
+
+    width: 49%;
+
+}
+
+.glyphicon {
+
+    padding-right: 10px;
+
+}

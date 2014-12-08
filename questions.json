@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "questionid": 1,
+      "difficulty": 1,
+      "question": "(60 x 2)/0.5 - 55 = ",
+      "answerA": "69",
+      "answerB": "185",
+      "answerC": "180",
+      "answerD": "50",
+      "answer": "B"
+    },
+        {
+      "questionid": 2,
+      "difficulty": 1,
+      "question": "(60 x 2)/0.6 - 30 = ",
+      "answerA": "69",
+      "answerB": "170",
+      "answerC": "180",
+      "answerD": "190",
+      "answer": "B"
+    },
+          {
+      "questionid": 3,
+      "difficulty": 1,
+      "question": "(60 - 45)/0.2 - 30 = ",
+      "answerA": "75",
+      "answerB": "50",
+      "answerC": "45",
+      "answerD": "65",
+      "answer": "C"
+    },
+          {
+      "questionid": 4,
+      "difficulty": 1,
+      "question": "(60 - 45) x 0.2 - 5 = ",
+      "answerA": "5",
+      "answerB": "-2",
+      "answerC": "0",
+      "answerD": "-4",
+      "answer": "B"
+    }          
+  ]
+}

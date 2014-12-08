@@ -1,0 +1,55 @@
+
+/******************************************************************************
+
+CSS file created for chat room html used in the Soccer Game webapp developed 
+by Team Coolio.
+
+All rights reserved 
+
+*******************************************************************************/
+
+body {
+
+    background-image: url(background.png);
+
+    background-size: cover;
+
+}
+
+.soccerball {
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    display: block;
+
+    padding-top: 30px;
+
+}
+
+.loginForm {
+
+    text-align: center;
+
+    padding: 30px;
+
+}
+
+.userName {
+
+    height: 40px;
+
+    width: 300px;
+
+    font-size: 18px;
+
+}
+
+.joinButton {
+
+    height: 40px;
+
+    width: 100px
+
+}

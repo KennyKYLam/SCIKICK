@@ -1,0 +1,77 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(background.png);
+    background-size: cover;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    overflow:hidden;
+}
+.wrapper {
+    width: 95%;
+    max-width: 1000px;
+    margin: 40px auto;
+}
+.titlecot {
+    display: inline-block;
+}
+.logo {
+    display: inline-block;
+}
+.title {
+    display: inline-block;
+    font-size: 2em;
+    color: #165788;
+}
+.content {
+    margin: 0px auto;
+    width: 1000px;
+    height: 700px;
+}
+#game {
+    width: 700px;
+    height: 480px;
+    margin: 10px;
+    display: inline-block;
+}
+.sidebar {
+    width: 250px;
+    height: 480px;
+    margin-top: -200px;
+    display: inline-block;
+}
+.target {
+    fill: rgb(255, 97, 97);
+}
+.questions {
+    height: 70px;
+    font-size: 1.5em;
+}
+#startButton {
+    width: 100px;
+    margin: 0 20px 0 0;
+}
+#statButton {
+    width: 100px;
+    background-color: #ff4444;
+}
+.initialButtons {
+    display: inline-block;
+    padding-left: 30px;
+}
+.bulletin {
+    font-size: 2em;
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin: 10 10 10 10;
+}
+
+.chart{
+    position:absolute;
+    top:150px;
+    left:35%;
+    box-shadow: 2px 2px 4px #888888;
+
+}
